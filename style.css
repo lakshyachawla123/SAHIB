@@ -66,3 +66,31 @@ body
 	font-style: italic;
 	text-shadow: 2px 2px;
 }
+.footer{
+	width: 100%;
+	height: auto;
+	margin-top: 482px;
+	background: #272727;
+	padding: 20px 0px;
+}
+.foot{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background: #32CD32;
+	padding: 5px;
+}
+.foot p{
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.foot p a{
+	color: #fff;
+}
+.foot p a:hover{
+	color: #272727;
+}
